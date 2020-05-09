@@ -15,7 +15,7 @@ data, and have it learn to predict weather. What would be a
 reasonable choice for P?
 
 - [ ] The process of the algorithm examining a large amount of historical weather date.
-- [x] The weather prediction task.
+- [x] ***The weather prediction task.***
 - [ ] The probability of it correctly predicting a future date's weather. 
 - [ ] None of these.
 
@@ -23,30 +23,32 @@ reasonable choice for P?
 
 ## Question 2
 
-Suppose you are working on weather prediction, and you would
+Suppose you are working on weather prediction, and use a
 
-like to predict whether or not it will be raining at 5pm
+learning algorithm to predict tomorrow's temperature (in
 
-tomorrow. You want to use a learning algorithm for this.
+degrees Centigrade/Fahrenheit).
 
 Would you treat this as a classification or a regression problem?
 
-- [x] Regression
+- [x] ***Regression***
 - [ ] Classification
 
 ---
 
 ## Question 3
 
-Suppose you are working on stock market prediction, and you
+Suppose you are working on stock market prediction, Typically
 
-would like to predict the price of a particular stock tomorrow
+tens of millions of shares of Microsoft stock are traded
 
-(measured in dollars). You want to use a learning algorithm for this.
+(i.e., bought/sold) each day. You would like to predict the
+
+number of Microsoft shares that will be traded tomorrow.
 
 Would you treat this as a classification or a regression problem?
 
-- [x] Regression
+- [x] ***Regression***
 
 - [ ] Classification
 
@@ -64,8 +66,8 @@ supervised learning to? (Select all that apply.) In each case, assume some appro
 
 dataset is available for your algorithm to learn from.
 
-- [x] Given genetic (DNA) data from a person, predict the odds of him/her developing diabetes over the next 10 years.
-- [x] Have a computer examine an audio clip of a piece of music, and classify whether or not there are voclas (i.e., a human voice singing) in that audio clip, or if it is a clip of only musical instruments (and no vocals).
+- [x] ***Given genetic (DNA) data from a person, predict the odds of him/her developing diabetes over the next 10 years.***
+- [x] ***Have a computer examine an audio clip of a piece of music, and classify whether or not there are voclas (i.e., a human voice singing) in that audio clip, or if it is a clip of only musical instruments (and no vocals).***
 - [ ] Given data on how 1000 medical patients respond to an experimental drug (such as effectiveness of the treatment, side effects, etc.), discover whether there are different categories or "types" of patients in terms of how they respond to the drug, and if so what these categories are.
 - [ ] Given a large dataset of mdical records from patients suffering from heart disease, try to learn whether there might be different clusters of such patients for which we might tailor separate treatments. 
 
@@ -77,5 +79,9 @@ Which of these is a reasonable definition of machine learning?
 
 - [ ] Machine learning is the field of allowing robots to act intelligently. 
 - [ ] Machine learning is the science of programming computers. 
-- [x] Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed. 
+- [x] ***Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.*** 
 - [ ] Machine learning learns form labeled data.
+
+
+
+[↩️ Go Back](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning)
