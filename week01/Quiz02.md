@@ -48,15 +48,16 @@ Suppose we set ![equation](https://microsoft.codecogs.com/svg.latex?\theta_0%20=
 
 ## Question 4
 
-Let *f* be some function so that 
+Let ![equation](https://microsoft.codecogs.com/svg.latex?f) be some function so that 
 
 ![equation](https://microsoft.codecogs.com/svg.latex?f(\theta_0,%20\theta_1)) outputs a number. For this problem,
 
-*f* is some arbitrary/unknown smooth function (not necessarily the
+![equation](https://microsoft.codecogs.com/svg.latex?f) is some arbitrary/unknown smooth function (not necessarily the
 
-cost function of linear regression, so *f* may have local optima).
+cost function of linear regression, so ![equation](https://microsoft.codecogs.com/svg.latex?f) may have local optima).
 
 Suppose we use gradient descent to try to minimize ![equation](https://microsoft.codecogs.com/svg.latex?f(\theta_0,%20\theta_1))
+
 as a function of ![equation](https://microsoft.codecogs.com/svg.latex?\theta_0) and ![equation](https://microsoft.codecogs.com/svg.latex?\theta_1). Which of the
 
 following statements are true? (Check all that apply.)
@@ -78,7 +79,7 @@ Suppose that for some linear regression problem (say, predicting housing prices 
 Which of the statements below must then be true? (Check all that apply.)
 
 - [ ] For this to be true, we must have ![equation](https://microsoft.codecogs.com/svg.latex?\theta_0%20=%200) and ![equation](https://microsoft.codecogs.com/svg.latex?\theta_1%20=%200) so that ![equation](https://microsoft.codecogs.com/svg.latex?h_\theta(x)%20=%200).
-- [ ] For this to be true, we must have ![equation](https://microsoft.codecogs.com/svg.latex?y^{(i)}%20=%200) for every value of *i = 1,2,…,m*.
+- [ ] For this to be true, we must have ![equation](https://microsoft.codecogs.com/svg.latex?y^{(i)}%20=%200) for every value of ![equation](https://microsoft.codecogs.com/svg.latex?i%20=%201,%202,...,%20m).
 - [ ] Gradient descent is likely to get stuck at a local minimum and fail to find the global minimum.
 - [x] ***Our training set can be fit perfectly by a straight line, i.e., all of our training examples lie perfectly on some straight line.***
 
