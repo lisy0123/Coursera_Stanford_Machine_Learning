@@ -7,7 +7,7 @@
 |  | Q03 | [Linear Algebra](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz03.md) |
 | **Week 02** | Q04 | [Linear Regression with Multiple Variables](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week02/Quiz04.md) |
 |         | Q05 | [Octave/Matlab Tutorial](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week02/Quiz05.md) |
-|         | PA01 | [Linear Regression](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/machine-learning-ex1)  [*(PDF)*](https://github.com/lisy0123/Coursera_Standford_Machine_Learning/blob/master/ex1.pdf) |
+|         | PA01 | [Linear Regression](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week02/machine-learning-ex1) |
 | **Week 03** | Q06 | Logistic Regression |
 |  | Q07 | Regularization |
 |  | PA02 | Logistic Regression |
