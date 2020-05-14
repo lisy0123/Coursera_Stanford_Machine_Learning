@@ -2,8 +2,8 @@
 
 |  Week   | # | Solution of Quiz & Programming Assignment |
 | :-----: | :----------------------------------------------------------: | ---------------------------------- |
-| **[Week 01](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week01)** | Q01 | [Introduction](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz01.md) |
-|         | Q02  | [Linear Regression with One Variable](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz02.md) |
+| **[Week 01](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week01)** | Q01 | [Introduction](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz01.pdf) |
+|         | Q02  | [Linear Regression with One Variable](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz02.pdf) |
 |  | Q03 | [Linear Algebra](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz03.pdf) |
 | **[Week 02](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week02)** | Q04 | [Linear Regression with Multiple Variables](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week02/Quiz04.pdf) |
 |         | Q05 | [Octave/Matlab Tutorial](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week02/Quiz05.pdf) |

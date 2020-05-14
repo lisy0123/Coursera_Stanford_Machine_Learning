@@ -82,6 +82,3 @@ Which of these is a reasonable definition of machine learning?
 - [x] ***Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.*** 
 - [ ] Machine learning learns form labeled data.
 
-
-
-[↩️ Go Back](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning)

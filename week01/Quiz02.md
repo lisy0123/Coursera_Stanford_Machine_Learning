@@ -83,6 +83,3 @@ Which of the statements below must then be true? (Check all that apply.)
 - [ ] Gradient descent is likely to get stuck at a local minimum and fail to find the global minimum.
 - [x] ***Our training set can be fit perfectly by a straight line, i.e., all of our training examples lie perfectly on some straight line.***
 
-
-
-[↩️ Go Back](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning)
