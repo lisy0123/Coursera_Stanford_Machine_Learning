@@ -97,7 +97,3 @@ must necessarily hold true? Check all that apply.
   > Since A and B are both $3\times3$ matrices, their product is $3\times3$. More generally, if A were an $m\times n$ matrix, and B a $n\times o$ matrix, then C would be $m\times o$. (In our example, $m=n=o=3$.)
 
 - [ ] $A*B*A=B*A*B$
-
-
-
-[↩️ Go Back](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning)
