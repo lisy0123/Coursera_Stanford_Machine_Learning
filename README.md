@@ -4,14 +4,14 @@
 | :-----: | :----------------------------------------------------------: | ---------------------------------- |
 | **[Week 01](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week01)** | Q01 | [Introduction](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz01.md) |
 |         | Q02  | [Linear Regression with One Variable](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz02.md) |
-|  | Q03 | [Linear Algebra](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz03.md) |
-| **[Week 02](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week02)** | Q04 | [Linear Regression with Multiple Variables](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week02/Quiz04.md) |
-|         | Q05 | [Octave/Matlab Tutorial](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week02/Quiz05.md) |
+|  | Q03 | [Linear Algebra](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week01/Quiz03.pdf) |
+| **[Week 02](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week02)** | Q04 | [Linear Regression with Multiple Variables](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week02/Quiz04.pdf) |
+|         | Q05 | [Octave/Matlab Tutorial](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week02/Quiz05.pdf) |
 |         | PA01 | [Linear Regression](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week02/machine-learning-ex1) |
-| **[Week 03](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week03)** | Q06 | [Logistic Regression](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week03/Quiz06.md) |
-|  | Q07 | [Regularization](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week03/Quiz07.md) |
+| **[Week 03](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week03)** | Q06 | [Logistic Regression](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week03/Quiz06.pdf) |
+|  | Q07 | [Regularization](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week03/Quiz07.pdf) |
 |  | PA02 | [Logistic Regression](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week03/machine-learning-ex2) |
-| **Week 04** | Q08 | [Neural Networks: Representation](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week04/Quiz08.md) |
+| **Week 04** | Q08 | [Neural Networks: Representation](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week04/Quiz08.pdf) |
 |  | PA03 | [Multi-class Classification and Neural Networks](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week04/machine-learning-ex3) |
 |**Week 05**|Q09|  |
 ||PA04|  |
