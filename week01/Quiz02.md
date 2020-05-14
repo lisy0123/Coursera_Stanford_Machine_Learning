@@ -82,4 +82,3 @@ Which of the statements below must then be true? (Check all that apply.)
 - [ ] For this to be true, we must have ![equation](https://microsoft.codecogs.com/svg.latex?y^{(i)}%20=%200) for every value of ![equation](https://microsoft.codecogs.com/svg.latex?i%20=%201,%202,...,%20m).
 - [ ] Gradient descent is likely to get stuck at a local minimum and fail to find the global minimum.
 - [x] ***Our training set can be fit perfectly by a straight line, i.e., all of our training examples lie perfectly on some straight line.***
-
