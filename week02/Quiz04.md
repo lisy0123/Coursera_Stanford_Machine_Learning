@@ -35,7 +35,7 @@ Based on this, which of the following conclusions seems most plausible?
 
 - [ ] Rather than use the current value of $\alpha$, it'd be more promising to try a smaller value of $\alpha$ (say $\alpha=0.1$).
 - [ ] $\alpha=0.3$ is an effective choice of learning rate.
-- [x] Rather than use the current value of $\alpha$, it'd be more promising to try a larger value of $\alpha$ (say $\alpha=0.1$).
+- [x] **Rather than use the current value of $\alpha$, it'd be more promising to try a larger value of $\alpha$ (say $\alpha=0.1$).**
 
 ---
 
@@ -51,7 +51,7 @@ For the given values of $m$ and $n$, what are the dimensions of $\theta,\;X$, an
 
 - [ ] $X$ is $14\times 3,\;y$ is $14\times 1, \theta$ is $3\times 3$
 - [ ] $X$ is $14\times 4,\;y$ is $14\times 1, \theta$ is $4\times 4$
-- [x] $X$ is $14\times 4,\;y$ is $14\times 1, \theta$ is $4\times 1$
+- [x] **$X$ is $14\times 4,\;y$ is $14\times 1, \theta$ is $4\times 1$**
 - [ ] $X$ is $14\times 3,\;y$ is $14\times 1, \theta$ is $3\times 1$
 
 ---
@@ -64,7 +64,7 @@ You want to use multivariate linear regression to fit the parameters $\theta$ to
 
 Should you prefer gradient descent or the normal equation?
 
-- [x] Gradient descent, since $(X^TX)^{-1}$ will be very slow to compute in the normal equation.
+- [x] **Gradient descent, since $(X^TX)^{-1}$ will be very slow to compute in the normal equation.**
 - [ ] The normal equation, since gradient might be unable to find the optimal $\theta$.
 - [ ] The normal equation, since it provides an efficient way to directly find the solution.
 - [ ] Gradient descent, since it will always converge to the optimal $\theta$.
@@ -78,4 +78,4 @@ Which of the following are reasons for using feature scaling?
 - [ ] It is necessary to prevent the normal equation from getting stuck in local optima.
 - [ ] It prevents the matrix $X^TX$ (used in the normal equation) from being non-invertable (singular/degenerate).
 - [ ] It speeds up gradient descent by making each iteration of gradient descent less expensive to compute.
-- [x] It speeds up gradient by making it require fewer iterations to get to a good solution.
+- [x] **It speeds up gradient by making it require fewer iterations to get to a good solution.**

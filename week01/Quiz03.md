@@ -86,13 +86,13 @@ Let A and B be $3\times3$ (square) matrices. Which of the following
 
 must necessarily hold true? Check all that apply.
 
-- [x] If B is the $3\times3$ identity matrix, then $A*B=B*A$
+- [x] **If B is the $3\times3$ identity matrix, then $A*B=B*A$**
 
   > Even though matrix multiplication is not commutative in general($A*B\ne B*A$ for general matrices $A,\;B$), for the special case where $B=I$, we have $A*B=A*I=A$, and also $B*A=I*A=A$. So $A*B=B*A$.
 
 - [ ] $A*B=B*A$
 
-- [x] If $C=B*A$, then C is a $3\times3$ matrix.
+- [x] **If $C=B*A$, then C is a $3\times3$ matrix.**
 
   > Since A and B are both $3\times3$ matrices, their product is $3\times3$. More generally, if A were an $m\times n$ matrix, and B a $n\times o$ matrix, then C would be $m\times o$. (In our example, $m=n=o=3$.)
 

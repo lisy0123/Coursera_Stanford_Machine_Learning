@@ -18,13 +18,13 @@
 |**[Week 06](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week06)**|Q10| [Advice for Applying Machine Learning](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week06/Quiz10.pdf) |
 ||PA05| [Regularized Linear Regression and Bias/Variance](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week06/machine-learning-ex5) |
 ||Q11| [Machine Learning System Design](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week06/Quiz11.pdf) |
-|**[Week 07](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week07)**|Q12| [Support Vector Machines](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week06/Quiz12.pdf) |
+|**[Week 07](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week07)**|Q12| [Support Vector Machines](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week07/Quiz12.pdf) |
 ||PA06| [Support Vector Machines](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week07/machine-learning-ex6) |
-|**Week 08**|Q13||
-||Q14||
-||PA07||
-|**Week 09**|Q15||
-||Q16||
-||PA08||
-|**Week 10**|Q17||
-|**Week 11**|Q18||
+|**[Week 08](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week08)**|Q13|[Unsupervised Learning](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week08/Quiz13.pdf)|
+||Q14|[Principal Component Analysis](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week08/Quiz14.pdf)|
+||PA07|[K-Means Clustering and PCA](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week08/machine-learning-ex7)|
+|**[Week 09](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week09)**|Q15|[Anomaly Detection](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week09/Quiz15.pdf)|
+||Q16|[Recommender Systems](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week09/Quiz16.pdf)|
+||PA08|[Anomaly Detection and Recommender Systems](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week09/machine-learning-ex8)|
+|**[Week 10](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week10)**|Q17|[Large Scale Machine Learning](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week10/Quiz17.pdf)|
+|**[Week 11](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week11)**|Q18|[Application: Photo OCR](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week10/Quiz18.pdf)|
