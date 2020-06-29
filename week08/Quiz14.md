@@ -74,3 +74,16 @@ Which of the following statements are true? Check all that apply.
 
 ## Question 5
 
+Which of the following are recommended applications of PCA? Select all that apply.
+
+- [x] **Data compression: Reduce the dimension of your data, so that it takes up less memory / disk space.**
+
+  > If memory or disk space is limited, PCA allows you to save space in exchange for losing a little of the data's information. This can be a reasonable tradeoff.
+
+- [x] **Data visualization: Reduce data to 2D (or 3D) so that it can be plotted.**
+
+  > This is a good use of PCA, as it can give you intuition about your data that would otherwise be impossible to see.
+
+- [ ] Preventing overfitting: Reduce the number of features (in a supervised learning problem), so that there are fewer parameters to learn.
+
+- [ ] To get more features to feed into a learning algorithm.
