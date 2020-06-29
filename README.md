@@ -27,4 +27,4 @@
 ||Q16|[Recommender Systems](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week09/Quiz16.pdf)|
 ||PA08|[Anomaly Detection and Recommender Systems](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week09/machine-learning-ex8)|
 |**[Week 10](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week10)**|Q17|[Large Scale Machine Learning](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week10/Quiz17.pdf)|
-|**[Week 11](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week11)**|Q18|[Application: Photo OCR](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week10/Quiz18.pdf)|
+|**[Week 11](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/tree/master/week11)**|Q18|[Application: Photo OCR](https://github.com/lisy0123/Coursera_Stanford_Machine_Learning/blob/master/week11/Quiz18.pdf)|
