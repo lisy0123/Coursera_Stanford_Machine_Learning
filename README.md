@@ -1,16 +1,6 @@
 # Coursera_Stanford_Machine_Learning
 
-## Summary
-
-It's a summary of Professor Andrew Ng's Kocera Machine Learning lecture in Korean. Although it does not include all the contents of the lecture, the necessary explanations will be further explained even if they are not included in the lecture.
-
-앤드루 응 교수의 코세라 머신러닝 강의를 한국어로 요약한 것이다. 모든 강의가 포함된 것은 아니지만, 필요한 설명은 강의에 포함되지 않더라도 추가적으로 설명할 예정이다. 
-
-:label: Updating...
-
----
-
-## Solution of Quiz & Programming Assignment
+Solution of Quiz & Programming Assignment about **[Stanford Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning?)**
 
 |  Week   | # | Solution of Quiz & Programming Assignment |
 | :-----: | :----------------------------------------------------------: | ---------------------------------- |
